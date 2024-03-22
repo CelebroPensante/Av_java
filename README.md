@@ -1,15 +1,15 @@
-#Lista de exercícios avaliativa
+# Lista de exercícios avaliativa
 lista de exercícios avaliativos sugeridos na aula de Desenvolvimento de Software
 realizado por Vitor Gustavo Jaskieviz de Carvalho
 
-##Exercício 01
+## Exercício 01
 Num mundo repleto de equações e problemas matemáticos, um estudante de programação se depara com o desafio de simplificar suas tarefas diárias. Ele percebe que, ao invés de recorrer sempre à calculadora física ou ao celular, poderia praticar suas habilidades de programação criando uma ferramenta personalizada.
 
 Inspirado por essa necessidade, ele decide desenvolver sua própria calculadora digital em Java. Essa calculadora simplificada deverá realizar as quatro operações matemáticas básicas: adição, subtração, multiplicação e divisão. Além disso, ele quer garantir que a calculadora seja fácil de usar, com métodos claramente definidos para cada operação.
 
 
 
-Dica:
+### Dica:
 
 “Crie uma classe `Calculadora` que contenha métodos para adicionar, subtrair, multiplicar e dividir, aceitando dois números reais como parâmetros para cada método e retornando o resultado. Estes métodos devem ser estáticos. Logo, não será necessário instanciar um objeto do tipo Calculadora para poder utilizar esses métodos. Certifique-se de que a divisão por zero seja tratada de maneira a evitar erros de execução.”
 
@@ -22,11 +22,11 @@ Para ajudar nessa organização, você decide criar um sistema simples em Java q
 
 
 
-Dica:
+### Dica:
 
 “Desenvolva a classe Livro com os atributos título, autor e ano. Implemente um construtor para inicializar esses atributos quando um novo livro for instanciado no seu sistema. Adicione um método exibirInfo() para mostrar todos os dados do livro na tela.”
 
-##Exercício 03
+## Exercício 03
 
 Em uma pequena cidade, um desenvolvedor entusiasta decide criar um sistema para ajudar a gerenciar as contas bancárias dos cidadãos locais. Com o crescimento da comunidade, ficou evidente a necessidade de um método mais eficiente e seguro para o manejo de transações bancárias, que até então eram feitas manualmente e levavam muito tempo.
 
@@ -34,6 +34,6 @@ Inspirado por essa necessidade comunitária, o objetivo é desenvolver um sistem
 
 
 
-Dica:
+### Dica:
 
 “Projete uma classe `ContaBancaria` que encapsule os atributos de uma conta, como `numeroConta`, `nomeTitular` e `saldo`. Utilize modificadores de acesso para garantir o encapsulamento e a segurança dos dados. Implemente métodos para `depositar(valor)`, `sacar(valor)` e um método que retorne o `saldo` atual da conta. Lembre-se de que cada operação deve ajustar o saldo da conta de acordo com a transação realizada.”
