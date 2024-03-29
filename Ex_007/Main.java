@@ -8,6 +8,7 @@ public class Main {
         Estoque meuEstoque = new Estoque();
 
         while (true) {
+            System.out.println("----- MENU -----");
             System.out.println("1. Adicionar produto");
             System.out.println("2. Remover produto");
             System.out.println("3. Buscar produto");
